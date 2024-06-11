@@ -1,2 +1,4 @@
 # encrypt_decrypt
-"This is a simple begginer friendly message encryption decryption porject"
+"This is a simple beginner friendly message encryption decryption porject"
+This Python project offers a user-friendly graphical interface, built with Tkinter, for decoding messages encrypted using the classic Caesar cipher. Users can enter the scrambled message and the key value (shift amount) they suspect was used. The program iterates through the message, shifting each letter based on the key to reveal the potential hidden message. To prevent brute-force attacks, a limit exists on the number of incorrect decoding attempts for a pre-defined message. The code currently focuses on decryption, but with additional development, it could be expanded to handle message encryption as well. This tool provides a valuable starting point for exploring and understanding the Caesar cipher and its role in basic cryptography.
+
